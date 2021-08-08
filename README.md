@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charansarap
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on working with larg sets of Data
+- 💞️ I’m looking to collaborate on working with large sets of Data
 - 📫 How to reach me linkedin.com/in/charan-sarap.
 
 <!---
